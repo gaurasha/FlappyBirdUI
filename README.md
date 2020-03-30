@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Deploying 
 
 ng build --prod --base-href "https://gaurasha.github.io/FlappyBirdUI/"
+
 ngh --dir dist/FlappyBirdUI
 
 
