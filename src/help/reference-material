@@ -1,4 +1,10 @@
 
+deploy to git hub pages : https://dzone.com/articles/how-to-deploy-an-angular-application-to-github
+ng build --prod --base-href "https://gaurasha.github.io/FlappyBirdUI/"
+ng deploy --base-href='https://gaurasha.github.io/FlappyBirdUI/'
+
 Websockets : https://www.javaguides.net/2019/06/spring-boot-angular-8-websocket-example-tutorial.html
 angular setup : https://stackoverflow.com/questions/54275069/module-not-found-error-cant-resolve-net-in-node-modules-stompjs-lib
 env config : https://medium.com/@balramchavan/configure-and-build-angular-application-for-different-environments-7e94a3c0af23
+
+numeric seperator problem wile dploying: https://stackoverflow.com/questions/60780664/could-not-find-plugin-proposal-numeric-separator
