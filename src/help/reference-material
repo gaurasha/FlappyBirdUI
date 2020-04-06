@@ -1,7 +1,10 @@
 
-deploy to git hub pages : https://dzone.com/articles/how-to-deploy-an-angular-application-to-github
+deploy to git hub pages : https://www.npmjs.com/package/angular-cli-ghpages#base-href
+ng deploy --base-href=/FlappyBirdUI/
+or 
+https://dzone.com/articles/how-to-deploy-an-angular-application-to-github 
 ng build --prod --base-href "https://gaurasha.github.io/FlappyBirdUI/"
-ng deploy --base-href='https://gaurasha.github.io/FlappyBirdUI/'
+ngh
 
 Websockets : https://www.javaguides.net/2019/06/spring-boot-angular-8-websocket-example-tutorial.html
 angular setup : https://stackoverflow.com/questions/54275069/module-not-found-error-cant-resolve-net-in-node-modules-stompjs-lib
